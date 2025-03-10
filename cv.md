@@ -37,3 +37,17 @@ I am a student at the Belarusian-Russian University, I am a 2nd year student of 
 - Belarussian: Elementary
 
 ---
+
+### EDUCATION
+- SECONDARY SCHOOL №28 OF MOGILEV (2012-2023)
+- BELARUSIAN-RUSSIAN UNIVERSITY (2023-...)
+
+---
+
+### Code Example
+```javascript
+// Example JavaScript code
+    function greet(name) {
+        console.log("Hello, " + name + "!");
+        }
+        greet("World");
